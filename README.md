@@ -20,3 +20,7 @@ Attribute Information:
 -- Iris Setosa
 -- Iris Versicolour
 -- Iris Virginica
+
+# Task-3 
+
+Perform the EDA on sample super store dataset - Retail
